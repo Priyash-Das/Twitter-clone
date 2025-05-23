@@ -1,0 +1,6 @@
+content:["./**/*.{html,js,ts,jsx,tsx}"],
+content: ["./*.html", "./js/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],
+content: ["./*.html", "./**/*.{js,ts,jsx,tsx}", "!./node_modules/**/*"],
+content: ["./*.html"],
+content: ["*.html"],
+content: ["./index.html"],
